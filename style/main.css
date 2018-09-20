@@ -1,0 +1,27 @@
+body{
+background-color: lavender;
+
+}
+
+h1{
+color: green;
+
+}
+
+h1:hover{
+
+color: blue;
+transition: 1s;
+}
+
+
+li{
+padding: 5px;
+
+}
+
+a:hover{
+transition: 1s;
+padding-left: 100px;
+
+}
